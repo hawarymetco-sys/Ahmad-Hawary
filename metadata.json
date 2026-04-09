@@ -1,0 +1,8 @@
+{
+  "name": "Cinematic AI Dubber & Stream Translator",
+  "description": "A professional-grade real-time multilingual streaming translation and cinematic dubbing workstation with advanced playback controls and voice cloning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
